@@ -14,5 +14,5 @@ Modificata l'estetica delle finestre di "Fermate Preferite" e "Fermate Vicine"
 Aggiunta maniglia con puntini per poter spostare le fermate nella sezione "Fermate Preferite"
 Modificata l'estetica della finestra di aggiornamento
 (ADMIN)
-Nuovo pannello admin con aggiunta visualizzazione delle modifiche
-Aggiunta visualizzazione modifiche admin nella finestra di aggiornamento
+Aggiunta delle modifiche amdin
+Visualizzazione delle modiifiche pubbliche e admin nella finestra di aggiornamento e nel menù admin
