@@ -1,10 +1,18 @@
 Versione 1.0.0:
 Aggiunta della logica di aggiornamento
+(ADMIN)
+Nessuna modifica
 
 Versione 1.0.1
 Miglioramento dell'interfaccia di visualizzazione degli orari
+(ADMIN)
+Nessuna modifica 
 
 Versione 1.0.2
 Reimpostata l'estetica delle info generali di viaggio nella sezione "Pianifica Itinerario"
 Modificata l'estetica delle finestre di "Fermate Preferite" e "Fermate Vicine"
 Aggiunta maniglia con puntini per poter spostare le fermate nella sezione "Fermate Preferite"
+Modificata l'estetica della finestra di aggiornamento
+(ADMIN)
+Nuovo pannello admin con aggiunta visualizzazione delle modifiche
+Aggiunta visualizzazione modifiche admin nella finestra di aggiornamento
