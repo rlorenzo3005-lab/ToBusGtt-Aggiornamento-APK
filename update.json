@@ -1,6 +1,6 @@
 {
   "versioneAttuale": "1.0.2",
-  "noteRelease": "Reimpostata l'estetica delle info generali di viaggio nella sezione Pianifica Itinerario\n Modificata l'estetica delle finestre di Fermate Preferite e Fermate Vicine\n Aggiunta maniglia con puntini  nella sezione Fermate Preferite\n Modificata l'estetica della finestra di aggiornamento",
+  "noteRelease": "Reimpostata l'estetica delle info generali di viaggio nella sezione Pianifica Itinerario\n Modificata l'estetica delle finestre di Fermate Preferite e Fermate Vicine\n Aggiunta maniglia con puntini  nella sezione Fermate Preferite\n Modificata l'estetica della finestra di aggiornamento (disponibile dalla versione 1.0.3)",
   "noteReleaseSviluppatore": "Aggiunta delle modifiche amdin\nVisualizzazione delle modiifiche pubbliche e admin sia nella finestra di aggiornamento sia nel menù admin",
   "linkApk": "https://github.com/rlorenzo3005-lab/ToBusGtt-Aggiornamento-APK/raw/refs/heads/main/app-debug.apk"
 }
