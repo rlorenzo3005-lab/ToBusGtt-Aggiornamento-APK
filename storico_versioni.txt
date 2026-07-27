@@ -12,7 +12,7 @@ Versione 1.0.2
 Reimpostata l'estetica delle info generali di viaggio nella sezione "Pianifica Itinerario"
 Modificata l'estetica delle finestre di "Fermate Preferite" e "Fermate Vicine"
 Aggiunta maniglia con puntini per poter spostare le fermate nella sezione "Fermate Preferite"
-Modificata l'estetica della finestra di aggiornamento
+Modificata l'estetica della finestra di aggiornamento (disponibile dalla versione 1.0.3)
 (ADMIN)
 Aggiunta delle modifiche amdin
 Visualizzazione delle modiifiche pubbliche e admin nella finestra di aggiornamento e nel menù admin
