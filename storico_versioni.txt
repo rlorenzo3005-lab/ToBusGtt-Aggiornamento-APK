@@ -1,12 +1,12 @@
 Versione 1.0.0:
 Aggiunta della logica di aggiornamento
 (ADMIN)
-Nessuna modifica
+Nessuna modifica admin
 
 Versione 1.0.1
 Miglioramento dell'interfaccia di visualizzazione degli orari
 (ADMIN)
-Nessuna modifica 
+Aggiunta dell'interfaccia admin tramite identificazione uuid per la visualizzazione della versione dell'app su dispositivo e su github
 
 Versione 1.0.2
 Reimpostata l'estetica delle info generali di viaggio nella sezione "Pianifica Itinerario"
@@ -16,3 +16,9 @@ Modificata l'estetica della finestra di aggiornamento (disponibile dalla version
 (ADMIN)
 Aggiunta delle modifiche amdin
 Visualizzazione delle modiifiche pubbliche e admin nella finestra di aggiornamento e nel menù admin
+
+Versione 1.0.3
+Sezione Arrivi Palina: aggiunta la selezione delle fermate anche a partire dal nome tramite menù a tendina
+Sezione Arrivi Palina e Pianifica Itinerario: cambiato l'algoritmo di individuazione del numero della fermata a partire dal nome con conseguente aumento della velocità di uscita dei risultati
+(ADMIN)
+Nessuna modifica admin
