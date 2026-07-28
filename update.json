@@ -1,7 +1,7 @@
 {
-  "versioneAttuale": "1.0.2",
-  "noteRelease": "Reimpostata l'estetica delle info generali di viaggio nella sezione Pianifica Itinerario\n Modificata l'estetica delle finestre di Fermate Preferite e Fermate Vicine\n Aggiunta maniglia con puntini  nella sezione Fermate Preferite\n Modificata l'estetica della finestra di aggiornamento (disponibile dalla versione 1.0.3)",
-  "noteReleaseSviluppatore": "Aggiunta delle modifiche amdin\nVisualizzazione delle modiifiche pubbliche e admin sia nella finestra di aggiornamento sia nel menù admin",
+  "versioneAttuale": "1.0.3",
+  "noteRelease": "Sezione Arrivi Palina: aggiunta la selezione delle fermate anche a partire dal nome tramite menù a tendina\nSezione Arrivi Palina e Pianifica Itinerario: cambiato l'algoritmo di individuazione del numero della fermata a partire dal nome con conseguente aumento della velocità di uscita dei risultati",
+  "noteReleaseSviluppatore": "Nessuna modifica amdin",
   "linkApk": "https://github.com/rlorenzo3005-lab/ToBusGtt-Aggiornamento-APK/raw/refs/heads/main/app-debug.apk"
 }
 
