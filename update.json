@@ -1,6 +1,6 @@
 {
   "versioneAttuale": "1.1.0",
-  "noteRelease": "(3)Nuova Sezione: Linee LIVE\n(3) Visualizzazione della linea con fermate, percorsi e mezzi.\n(1,2,3)Possibilità di ricercare in app la fermata o la linea cliccando su un numero di palina o di linea in ogni parte dell'app. Avviene quindi il reindirizzamento automatico alla sezione Arrivi Palina o Linee LIVE\n(4)Nuova formattazione della schermata aggiornamenti (disponibile dalla versione 1.1.1)",
+  "noteRelease": "Nuova Sezione: Linee LIVE\n Sezione Linee LIVE: visualizzazione della linea con fermate, percorsi e mezzi.\nTutte le sezioni: possibilità di ricercare in app la fermata o la linea cliccando su un numero di palina o di linea in ogni parte dell'app. Avviene quindi il reindirizzamento automatico alla sezione Arrivi Palina o Linee LIVE\nFinestra Aggiornamenti: nuova formattazione della schermata aggiornamenti (sarà visibile all'aggiornamento alla versione 1.1.1)",
   "noteReleaseSviluppatore": "Nessuna modifica amdin",
   "linkApk": "https://github.com/rlorenzo3005-lab/ToBusGtt-Aggiornamento-APK/raw/refs/heads/main/app-debug.apk"
 }
