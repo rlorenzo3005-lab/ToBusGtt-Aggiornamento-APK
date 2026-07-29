@@ -22,3 +22,10 @@ Sezione Arrivi Palina: aggiunta la selezione delle fermate anche a partire dal n
 Sezione Arrivi Palina e Pianifica Itinerario: cambiato l'algoritmo di individuazione del numero della fermata a partire dal nome con conseguente aumento della velocità di uscita dei risultati
 (ADMIN)
 Nessuna modifica admin
+
+Versione 1.1.0
+Nuova Sezione: Linee LIVE
+Sezione Linee LIVE: visualizzazione della linea con fermate, percorsi e mezzi.
+Tutte le Sezioni: possibilità di ricercare in app la fermata o la linea cliccando su un numero di palina o di linea in ogni parte dell'app. Avviene quindi il reindirizzamento automatico alla sezione Arrivi Palina o Linee LIVE
+(ADMIN)
+Nessuna modifica ADMIN
