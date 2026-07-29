@@ -27,5 +27,6 @@ Versione 1.1.0
 Nuova Sezione: Linee LIVE
 Sezione Linee LIVE: visualizzazione della linea con fermate, percorsi e mezzi.
 Tutte le Sezioni: possibilità di ricercare in app la fermata o la linea cliccando su un numero di palina o di linea in ogni parte dell'app. Avviene quindi il reindirizzamento automatico alla sezione Arrivi Palina o Linee LIVE
+Finestra Aggiornamenti: Nuova formattazione della schermata aggiornamenti (disponibile dalla versione 1.1.1)
 (ADMIN)
 Nessuna modifica ADMIN
