@@ -32,6 +32,7 @@ Finestra Aggiornamenti: Nuova formattazione della schermata aggiornamenti (dispo
 Nessuna modifica ADMIN
 
 Versione 1.1.1
+(1) Miglioramento dell'estetica delle fermate consigliate
 (2) Miglioramento dell'estetica delle schede degli itinerari
 (3) Miglioramento dell'estetica delle fermate
 (3) Visualizzazione istantanea dei mezzi dopo aver selezionato la linea 
