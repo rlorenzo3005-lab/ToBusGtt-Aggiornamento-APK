@@ -48,6 +48,11 @@ Versione 2.0.0
 (3) Quando si ricerca una linea compaiono anche le fermate come menù a tendina divise per colore e ordinate in ordine crescente sulla base della distanza dalla posizione (oltre ai mezzi circolanti)
 (3) È stato velocizzato il tempo di acquisizione della posizione dei veicoli 
 
+Versione 2.0.1
+(1) Aggiunto il tasto che indica lo stato di arrivo del mezzo (in anticipo --> arancione ; in orario --> verde ; in ritardo --> rosso) e relativo minutaggio se in anticipo o in ritardo
+(3) Risolto il bug che non consentiva la visualizzazione di alcune linee (come la 16CS/D, le linee B, le linee STAR)
+(3) Modificata la visualizzazione di tram e bus su mappa, divisi per colore (bus --> blu ; tram --> verde) e individuabili su tutte le linee (anche in quelle ibride, ovvero quelle servite sia da tram sia da bus)
+
 
 
 
