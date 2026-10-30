@@ -1,6 +1,6 @@
 {
-  "versioneAttuale": "2.0.1",
-  "noteRelease": "(1) Aggiunto il tasto che indica lo stato di arrivo del mezzo (in anticipo --> arancione ; in orario --> verde ; in ritardo --> rosso) e relativo minutaggio se in anticipo o in ritardo\n(3) Risolto il bug che non consentiva la visualizzazione di alcune linee (come la 16CS/D, le linee B, le linee STAR)\n(3) Modificata la visualizzazione di tram e bus su mappa, divisi per colore (bus --> blu ; tram --> verde) e individuabili su tutte le linee (anche in quelle ibride, ovvero quelle servite sia da tram sia da bus)",
+  "versioneAttuale": "2.0.2",
+  "noteRelease": "(2,3) Correzione bug che non consentiva di visualizzare l'itinerario su mappa\n(3) Rivisitazione estetica di alcune parti della sezione (mezzi, menù a tendina, pulsanti)",
   "noteReleaseSviluppatore": "Nessuna modifica ADMIN",
   "linkApk": "https://github.com/rlorenzo3005-lab/ToBusGtt-Aggiornamento-APK/raw/refs/heads/main/app-debug.apk"
 }
