@@ -54,7 +54,9 @@ Versione 2.0.1
 (3) Modificata la visualizzazione di tram e bus su mappa, divisi per colore (bus --> blu ; tram --> verde) e individuabili su tutte le linee (anche in quelle ibride, ovvero quelle servite sia da tram sia da bus)
 
 
-
+Versione 2.0.2
+(2,3) Correzione bug che non consentiva di visualizzare l'itinerario su mappa
+(3) Rivisitazione estetica di alcune parti della sezione (mezzi, menù a tendina, pulsanti)
 
 
 
